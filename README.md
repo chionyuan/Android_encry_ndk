@@ -5,4 +5,4 @@ aes+md5(非标准) 可有效增加签名层面计算的难度。安全性提高�
 
 
 # 致谢
-https://github.com/BruceWind/AESJniEncrypt
+https://github.com/kokke/tiny-AES-c
